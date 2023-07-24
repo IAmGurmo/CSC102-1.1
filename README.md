@@ -1,2 +1,2 @@
-# CSC102-1.1-1.2
+# CSC102-1.1
  Index and Boards
